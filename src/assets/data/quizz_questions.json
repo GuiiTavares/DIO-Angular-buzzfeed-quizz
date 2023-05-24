@@ -1,0 +1,55 @@
+{
+  "title":"Quem seria você no Red Dead Redemption 2 ?",
+  "questions":[
+    {
+      "id":1,
+      "question": "Qual é a sua abordagem preferida para resolver problemas?",
+      "options":[
+        {"id": 1, "name":"Pensar estrategicamente e tomar decisões racionais", "alias":"A"},
+        {"id": 2, "name":"Agir impulsivamente e confiar no meu instinto", "alias":"B"},
+        {"id": 3, "name":"Tentar encontrar uma solução pacífica antes de recorrer à violência.", "alias":"C"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "Qual dessas atividades você mais gosta de fazer durante o tempo livre?",
+      "options":[
+        {"id": 1, "name":"Explorar a natureza e descobrir novos lugares.", "alias":"A"},
+        {"id": 2, "name":"Participar de competições e desafios.", "alias":"B"},
+        {"id": 3, "name":"Aproveitar momentos de tranquilidade para relaxar na natureza.", "alias":"C"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "Como você se sente em relação a assumir riscos?",
+      "options":[
+        {"id": 1, "name":"Sou cauteloso(a) e evito correr riscos desnecessários.", "alias":"A"},
+        {"id": 2, "name":"Adoro correr riscos e buscar a adrenalina.", "alias":"B"},
+        {"id": 3, "name":"Prefiro assumir riscos calculados e ter um plano de contingência.", "alias":"C"}    
+     ]
+    },
+    {
+      "id":4,
+      "question": "O que você valoriza mais em um lugar para chamar de lar?",
+      "options":[
+        {"id": 3, "name":"Companheirismo e solidariedade entre os membros.", "alias":"C"},
+        {"id": 2, "name":"Aventura e emoção constante.", "alias":"B"},
+        {"id": 1, "name":"Liberdade para fazer minhas próprias escolhas.", "alias":"A"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "Qual seria o seu papel em um grupo de fora da lei?",
+      "options":[
+        {"id": 2, "name":"O atirador habilidoso, pronto para enfrentar qualquer inimigo.", "alias":"B"},
+        {"id": 3, "name":"O diplomata, negociando e resolvendo problemas com outros grupos.", "alias":"C"},
+        {"id": 1, "name":"O estrategista, planejando e coordenando as ações.", "alias":"A"}
+      ]
+    }
+  ],
+  "results":{
+    "A": "Você seria Arthur Morgan, o leal e estrategista líder da gangue Van der Linde!",
+    "B": "Você seria Micah Bell, o destemido e audacioso pistoleiro da gangue Van der Linde!",
+    "C": "Você seria Hosea Matthews, o diplomata e estrategista habilidoso da gangue Van der Linde!"
+  }
+}
